@@ -71,7 +71,7 @@ Because the app installs keyboard hooks, some antivirus tools or Windows SmartSc
 Requirements: a Windows C++ toolchain with `g++`, `mingw32-make` (or `make`), and `windres` (all included with MinGW / MinGW-w64).
 
 ```
-git clone https://github.com/<your-username>/callin-clean.git
+git clone https://github.com/AddisionS/callin-clean.git
 cd callin-clean
 mingw32-make
 ```
