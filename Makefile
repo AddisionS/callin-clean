@@ -1,6 +1,6 @@
 CXX      = g++
 CXXFLAGS = -std=c++17 -Wall -Wextra -MMD -MP
-LDLIBS   = -lgdi32 -luser32 -lshell32 -ladvapi32 -mwindows
+LDLIBS   = -lgdi32 -luser32 -lshell32 -ladvapi32 -mwindows -static
 TARGET   = CallInClean.exe
 
 SRCS = src/main.cpp src/hook.cpp src/overlay.cpp src/autostart.cpp
