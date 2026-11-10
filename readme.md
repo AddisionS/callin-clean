@@ -101,3 +101,7 @@ Makefile
 ## License
 
 Released under the [MIT License](LICENSE).
+
+## Download 
+
+See the [latest release](https://github.com/AddisionS/callin-clean/releases/latest).
