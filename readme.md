@@ -8,7 +8,7 @@
   <em>Clean your keyboard and mouse without messing up your Windows.</em>
 </p>
 
-Call-In Clean is a tiny Windows tray utility that temporarily blocks keyboard and/or mouse input, so you can wipe your peripherals without typing gibberish, clicking things, or closing windows by accident. It is inspired by Apple's Keyboard Cleaning Mode.
+Call-In Clean is a tiny Windows tray utility that temporarily blocks keyboard and/or mouse input, so you can wipe your peripherals without typing gibberish, clicking things, or closing windows by accident.
 
 > **Status:** early development. It works, but it has not been tested on a wide range of hardware yet. See [Known limitations](#known-limitations).
 
